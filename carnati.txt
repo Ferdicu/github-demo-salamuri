@@ -2,3 +2,6 @@ picanti
 subtiri
 de porc
 de oaie
+telemea
+cascaval
+urda
